@@ -52,6 +52,7 @@ body {
     flex-direction: row;
 }
 
+
 .big_text {
     text-align: center;
     color: white;
@@ -128,4 +129,7 @@ img {
 .topnav a.active {
   background-color: #27214d;
   color: white;
+}
+.contact-card {
+    padding: 50px;
 }
