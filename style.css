@@ -41,6 +41,12 @@ body {
 
 }
 
+.info p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .container {
     width: 100%;
     background: linear-gradient(180deg, rgba(69, 64, 168, 1) 0%, rgba(4, 14, 28, 1) 99%, rgba(53, 68, 71, 1) 100%, rgba(35, 35, 232, 1) 100%);
